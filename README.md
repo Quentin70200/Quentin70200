@@ -1,6 +1,9 @@
 <h1>Hi there 👋 My name is Quentin and I am in full-stack training!:)</h1>
 
 ![img](https://github.com/Quentin70200/Quentin70200/blob/main/img.git/Good%20Morning%20!%20welcome%20in%20my%20GitHub.png)
+
+<p><span>&#128071</span> What i use and learn in my training <span>&#128071</span></p>
+
   ![img](https://github.com/Quentin70200/Quentin70200/blob/main/img.git/logohtmlcssjs.png)
   ![img](https://github.com/Quentin70200/Quentin70200/blob/main/img.git/php-mysql.png)
 
